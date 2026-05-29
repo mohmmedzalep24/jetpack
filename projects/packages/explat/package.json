@@ -30,7 +30,7 @@
 		"concurrently": "7.6.0",
 		"jest": "30.0.4",
 		"typescript": "5.8.3",
-		"webpack": "5.94.0",
+		"webpack": "5.104.1",
 		"webpack-cli": "6.0.1"
 	},
 	"exports": {
@@ -47,6 +47,6 @@
 		"@wordpress/url": "4.26.0",
 		"cookie": "1.0.2",
 		"debug": "4.4.1",
-		"qs": "6.12.1"
+		"qs": "6.15.2"
 	}
 }
