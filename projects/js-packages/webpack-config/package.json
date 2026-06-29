@@ -42,7 +42,7 @@
 		"thread-loader": "3.0.4"
 	},
 	"devDependencies": {
-		"@babel/core": "7.27.7",
+		"@babel/core": "7.29.6",
 		"@babel/runtime": "7.27.6",
 		"typescript": "5.8.3",
 		"webpack": "5.94.0",
