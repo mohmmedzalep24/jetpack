@@ -33,13 +33,13 @@
 		"prop-types": "15.8.1",
 		"react": "18.3.1",
 		"react-dom": "18.3.1",
-		"react-router": "7.6.2"
+		"react-router": "7.15.1"
 	},
 	"devDependencies": {
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/remove-asset-webpack-plugin": "workspace:*",
-		"@babel/core": "7.27.7",
+		"@babel/core": "7.29.6",
 		"@babel/preset-env": "7.27.2",
 		"@babel/runtime": "7.27.6",
 		"@fullcalendar/core": "6.1.18",

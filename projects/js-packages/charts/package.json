@@ -73,7 +73,7 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.27.7",
+		"@babel/core": "7.29.6",
 		"@babel/plugin-transform-react-jsx": "7.27.1",
 		"@babel/plugin-transform-runtime": "7.27.4",
 		"@babel/preset-env": "7.27.2",
