@@ -30,7 +30,7 @@
 		"@automattic/calypso-color-schemes": "4.0.0",
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@babel/core": "7.27.7",
+		"@babel/core": "7.29.6",
 		"@babel/preset-env": "7.27.2",
 		"@babel/runtime": "7.27.6",
 		"@csstools/postcss-global-data": "2.1.1",
